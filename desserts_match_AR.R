@@ -1,9 +1,5 @@
-# Michelle comment
-<<<<<<< HEAD
-# I don't like your comment
-=======
-# Another comment
->>>>>>> b7180b77f252de7ece46506e7834831ab189c605
+# Favorite Desserts
+
 library(tidyverse)
 library(here)
 
